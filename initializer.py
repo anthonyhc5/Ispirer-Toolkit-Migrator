@@ -146,3 +146,4 @@ def initPetscTemplate(rods):
 
     return fueltemp, blacktemp, PETSc.Vec().createSeq(fuleRodSample.nH*fuleRodSample.nR)
 
+
